@@ -1,0 +1,1 @@
+console.log('AMYANA premium loaded');
